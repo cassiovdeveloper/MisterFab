@@ -1,4 +1,4 @@
-# 📦 FabLearn — Controle de Ferramentas e Agendamento do Laboratório
+# 📦 MisterFabLearn — Controle de Ferramentas e Agendamento do Laboratório
 
 Sistema desenvolvido em **Portugol Studio** para gerenciar estoque de ferramentas e agendamentos do espaço FabLearn por turmas.
 
