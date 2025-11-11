@@ -95,7 +95,7 @@ Automatizar o controle de ferramentas e horários de uso do laboratório escolar
 
 
 ## 👨‍💻 Desenvolvido por
-**Equipe ou autor do projeto** ✨  
+**Alunos do Ensino Medio da Escola SESI Jose Pedro Fernando Piovan** ✨  
 Projeto educacional, uso livre para estudos.
 
 Quer que eu personalize com seu nome ou escola? 😎
