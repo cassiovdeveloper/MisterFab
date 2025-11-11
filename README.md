@@ -28,12 +28,10 @@ Sistema desenvolvido em **Portugol Studio** para gerenciar estoque de ferramenta
 
 
 ## 🧠 Habilidades e Conceitos Utilizados
-- Vetores (arrays)
+- Vetores
 - Estruturas de repetição
 - Condicionais e validações
-- Menu interativo (`escolha/caso`)
-- Organização de dados sem banco (armazenamento em memória)
-- Lógica sequencial com regras de negócio
+- Menu interativo com escolha/caso
 
 
 ## 📌 Regras do Sistema
